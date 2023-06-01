@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alom4hdi&label=Profile%20views&color=0e75b6&style=flat" alt="alom4hdi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alom4hdi" alt="alom4hdi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fwmark0x10" target="blank"><img src="https://img.shields.io/twitter/follow/fwmark0x10?logo=twitter&style=for-the-badge" alt="fwmark0x10" /></a> </p>
-
 - 🔭 I’m currently working on [V2Ray](https://github.com/v2fly/v2ray-core)
 
 - 🌱 I’m currently learning **Deep packet inspecting**
