@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alom4hdi&label=Profile%20views&color=0e75b6&style=flat" alt="alom4hdi" /> </p>
 
-- 🔭 I’m currently working on [V2Ray](https://github.com/v2fly/v2ray-core)
+- 🔭 I’m currently working on [MVGram](https://github.com/alom4hdi/MVgram)
 
-- 🌱 I’m currently learning **Deep packet inspecting**
+- 🌱 I’m currently learning [V](https://github.com/vlang/v)
 
-- 👯 I’m looking to collaborate on [Softether VPN](https://github.com/SoftEtherVPN/SoftEtherVPN/)
+- 👯 I’m looking to collaborate on [V](https://github.com/vlang/v)
 
 - 💬 Ask me about **Networking, Python programming**
 
