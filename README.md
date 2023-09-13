@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alom4hdi&label=Profile%20views&color=0e75b6&style=flat" alt="alom4hdi" /> </p>
 
-- 🔭 I’m currently working on [MVGram](https://github.com/alom4hdi/MVgram)
+- 🔭 I’m currently working on [Neutron](https://github.com/alom4hdi/NeutronDNS)
 
-- 🌱 I’m currently learning [V](https://github.com/vlang/v)
+- 🌱 I’m currently learning Reverse Engineering, C
 
-- 👯 I’m looking to collaborate on [V](https://github.com/vlang/v)
-
-- 💬 Ask me about **Networking, Python programming**
+- 💬 Ask me about **Networking, Go programming**
 
 - 📫 How to reach me **alom4hdi@gmail.com**
 
