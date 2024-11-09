@@ -17,7 +17,7 @@
 <a href="https://instagram.com/alom4hdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alom4hdi" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alom4hdi&show_icons=true&locale=en" alt="alom4hdi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b00tkitism&show_icons=true&locale=en" alt="b00tkitism" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alom4hdi&" alt="alom4hdi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b00tkitism&" alt="b00tkitism" /></p>
 
